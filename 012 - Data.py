@@ -1,9 +1,9 @@
 #integer
 
 int_data=10 
-bin_data=0b10 # 2진수
-oct_data=0o10 # 8진수
-hex_data=0x10 # 16진수
+bin_data=0b10 # 2진수 Binary
+oct_data=0o10 # 8진수 Octal
+hex_data=0x10 # 16진수 Hexa
 long_data=1234567890123456789
 print(int_data)
 print(bin_data)
@@ -31,6 +31,6 @@ print(5/2)
 #complex
 
 c1=1+7j
-print(c1.real);print(c1.imag) #real은 복소수중 실수, imag는 복소수중 허수
+print(c1.real);print(c1.imag) #real은 복소수중 실수 (Real number in Complex number), imag는 복소수중 허수 (Imaginary number in Complex number)
 c2=complex(2,3)
 print(c2)
