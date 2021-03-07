@@ -4,7 +4,7 @@ a=1
 b=2
 ret=a+b
 print('a+b=',end='')
-print(ret) # end='' 줄바꾸기 안 함
+print(ret) # end='' 줄바꾸기 안 함 (No Line Replacement)
 print('=============================================================')
 
 # Basic Operation (+,-,*,/,**)
