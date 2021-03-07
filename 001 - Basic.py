@@ -1,4 +1,4 @@
-print('안녕하세요')
+print('Hello')
 a=1
 b=2
 print(a+b)
